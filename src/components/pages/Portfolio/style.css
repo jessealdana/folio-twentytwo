@@ -1,0 +1,83 @@
+.portWrapper {
+    background-image: linear-gradient(rgb(165, 200, 202), rgb(92, 163, 167) );
+    padding: 1em;
+}
+
+.portBody {
+    width: 84%;
+    margin-left: 8%;
+    margin-right: auto;
+}
+
+.portContainer {
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-rows: auto auto;
+    column-gap: .5em;
+    row-gap: 2em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.portContainer > .tile {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5em;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(54, 68, 87);
+    border-radius: 5px;
+    color: rgb(63, 80, 64);
+    position: relative;
+}
+
+#caption {
+    display: block;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1em;
+}
+
+#link {
+    justify-content: center;
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: cadetblue;
+    border-style: solid;
+    border-color: darkcyan;
+    border-width: 2px;
+    border-radius: 5px;
+    text-align: center;
+    bottom: 1em;
+    position: absolute;
+    padding: .5em;
+}
+
+#description {
+    display: inline-block;
+    vertical-align: middle;
+    height: auto;
+    background-color: rgb(214, 235, 225);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: rgb(63, 80, 64);
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .portContainer {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: auto;
+    }
+}

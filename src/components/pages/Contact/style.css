@@ -1,0 +1,23 @@
+.socials {
+    background-image: linear-gradient(rgb(165, 200, 202), rgb(92, 163, 167) );
+    padding: 1em;
+}
+
+.conContainer {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: auto;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(54, 68, 87);
+    border-radius: 5px;
+    color: rgb(54, 68, 87);
+    text-align: center;
+}
+
+.button {
+    background-color: rgb(92, 99, 98);
+    color: whitesmoke;
+    padding: 1em;
+}
