@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/folio-twentytwo/static/css/main.1e9667da.css",
-    "main.js": "/folio-twentytwo/static/js/main.d553073b.js",
+    "main.css": "/folio-twentytwo/static/css/main.9f68abd6.css",
+    "main.js": "/folio-twentytwo/static/js/main.26e27866.js",
     "static/js/787.2e9b76fa.chunk.js": "/folio-twentytwo/static/js/787.2e9b76fa.chunk.js",
     "static/media/aboutBackground.jpg": "/folio-twentytwo/static/media/aboutBackground.f3b88ca6056a3bbe7d57.jpg",
     "static/media/selfie.jpeg": "/folio-twentytwo/static/media/selfie.f1722413b0e90f3629e4.jpeg",
@@ -9,13 +9,14 @@
     "static/media/dragon.png": "/folio-twentytwo/static/media/dragon.a006ca2121ed70118a3b.png",
     "static/media/astronomy.png": "/folio-twentytwo/static/media/astronomy.192a95692879dcc0a1ff.png",
     "static/media/directory.png": "/folio-twentytwo/static/media/directory.53f5488b9edc9e4768c7.png",
+    "static/media/responsive.png": "/folio-twentytwo/static/media/responsive.d592cd367f57ae5100c6.png",
     "index.html": "/folio-twentytwo/index.html",
-    "main.1e9667da.css.map": "/folio-twentytwo/static/css/main.1e9667da.css.map",
-    "main.d553073b.js.map": "/folio-twentytwo/static/js/main.d553073b.js.map",
+    "main.9f68abd6.css.map": "/folio-twentytwo/static/css/main.9f68abd6.css.map",
+    "main.26e27866.js.map": "/folio-twentytwo/static/js/main.26e27866.js.map",
     "787.2e9b76fa.chunk.js.map": "/folio-twentytwo/static/js/787.2e9b76fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e9667da.css",
-    "static/js/main.d553073b.js"
+    "static/css/main.9f68abd6.css",
+    "static/js/main.26e27866.js"
   ]
 }
